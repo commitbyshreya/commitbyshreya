@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Shedge</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1734854842~exp=1734858442~hmac=8e589a6488c576ae3c79b34671d19169e124b6511f2fe63c4512b4f0f7d09799&w=1800)">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZvcGhpcm1weHhxdDM5NHJodXc2aXQ3YWF5bWVrOTBrNnp1cjhvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
 <p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=commitbyshreya&label=Profile%20views&color=0e75b6&style=flat" alt="commitbyshreya" /> </p>
 
