@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![MasterHead](https://images.pexels.com/photos/9783812/pexels-photo-9783812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 <h1 align="center">Hi 👋, I'm Shreya Shedge</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
