@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shreya.shedge@somaiya.edu**
 
-- 📄 Know about my experiences [https://bit.ly/3VRBqnD](https://bit.ly/3VRBqnD)
+- 📄 Know about my experiences [http://bit.ly/422bsQS](http://bit.ly/422bsQS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
