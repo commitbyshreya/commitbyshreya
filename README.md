@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/ncKVNYCZ/linkedinbanner.png" height="240" width="100%" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Shreya Shedge</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Code, coffee, and chaos—I'll make it all work!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=commitbyshreya&label=Profile%20views&color=0e75b6&style=flat" alt="commitbyshreya" /> </p>
 
