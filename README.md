@@ -1,4 +1,4 @@
-<img src="https://github.com/commitbyshreya/commitbyshreya/blob/main/cover.jpeg?raw=true" height="300" width="100%" alt="MasterHead">
+<img src="https://i.postimg.cc/ncKVNYCZ/linkedinbanner.png" height="240" width="100%" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Shreya Shedge</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
