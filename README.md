@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Backend Development and MERN STACK.**
 
-- 📫 How to reach me **shreya.shedge@somaiya.edu**
+- 📫 How to reach me **commitbyshreya@gmail.com**
 
 - 📄 Know about my experiences [http://bit.ly/422bsQS](http://bit.ly/422bsQS)
 
