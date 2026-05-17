@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/ncKVNYCZ/linkedinbanner.png" height="240" width="100%" alt="MasterHead">
+<!-- <img src="https://i.postimg.cc/ncKVNYCZ/linkedinbanner.png" height="240" width="100%" alt="MasterHead"> -->
 <h1 align="center">Hi 👋, I'm Shreya Shedge</h1>
 <h3 align="center">Code, coffee, and chaos—I'll make it all work!</h3>
 
